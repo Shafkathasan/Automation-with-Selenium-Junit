@@ -1,4 +1,4 @@
-# Automation with Selenium & Junit
+# Automation & Scrape with Selenium & Junit
 
 ## Description
 This project contains automated tests for three different web forms using Java:
