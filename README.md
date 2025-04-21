@@ -8,7 +8,7 @@ This project contains automated tests for three different web forms using Java:
 
 ## Technologies Used
 - **Java 17**: Core programming language
-- **Selenium WebDriver 4.15.0**: Browser automation
+- **Selenium WebDriver 5.9.2**: Browser automation
 - **JUnit 5**: Test framework
 - **Gradle**: Build automation
 - **WebDriverManager**: Automated driver management
