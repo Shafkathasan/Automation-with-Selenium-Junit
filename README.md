@@ -34,12 +34,20 @@ This project contains automated tests for three different web forms using Java:
 ## Test Reports
 ### Test 01 https://www.digitalunite.com/practice-webform-learners
 ![image](https://github.com/user-attachments/assets/c70d3523-9475-4038-94b8-d8b933f192a9)
-Demo
+Demo Video
+
+[![task01](https://img.youtube.com/vi/0F8vTYPvn9o/0.jpg)](https://www.youtube.com/watch?v=0F8vTYPvn9o)
+
 
 ### Test 02 https://demo.wpeverest.com/user-registration/guest-registration-form/
 ![image](https://github.com/user-attachments/assets/0dfc5af9-0e5d-471e-8749-cafad4d4aeb7)
-Demo
+Demo Video
+
+[![task02](https://img.youtube.com/vi/-J_ZBiVqdqg/0.jpg)](https://www.youtube.com/watch?v=-J_ZBiVqdqg)
 
 ### Test 03 https://dsebd.org/latest_share_price_scroll_by_value.php
 ![image](https://github.com/user-attachments/assets/9e9f52ef-c9fc-4605-b033-08cdd331dbf1)
-Demo
+Demo Video
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/y5FsQ8SkHus/0.jpg)](https://www.youtube.com/watch?v=y5FsQ8SkHus)
+
