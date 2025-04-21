@@ -33,7 +33,10 @@ This project contains automated tests for three different web forms using Java:
 
 ## Test Reports
 ### Test 01
+![image](https://github.com/user-attachments/assets/c70d3523-9475-4038-94b8-d8b933f192a9)
 
 ### Test 02
+![image](https://github.com/user-attachments/assets/0dfc5af9-0e5d-471e-8749-cafad4d4aeb7)
 
 ### Test 03
+![image](https://github.com/user-attachments/assets/9e9f52ef-c9fc-4605-b033-08cdd331dbf1)
