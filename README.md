@@ -32,3 +32,8 @@ This project contains automated tests for three different web forms using Java:
     Open build/reports/tests/test/index.html in browser
 
 ## Test Reports
+### Test 01
+
+### Test 02
+
+### Test 03
