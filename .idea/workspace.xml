@@ -81,6 +81,8 @@
     "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "D:/User Files/Download/Videos/Batch 14 SDET/Junit/Test/Automation-with-Selenium-Junit",
     "onboarding.tips.debug.path": "D:/User Files/Download/Videos/Batch 14 SDET/Junit/Test/Automation-with-Junit/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
@@ -177,7 +179,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745230362024</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Upload">
+      <option name="closed" value="true" />
+      <created>1745232061104</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745232061104</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload">
+      <option name="closed" value="true" />
+      <created>1745232290331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745232290331</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
